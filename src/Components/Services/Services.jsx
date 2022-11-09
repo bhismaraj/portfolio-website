@@ -42,8 +42,8 @@ const Services = () => {
                 <div style={{ top: '12rem', left: "-4rem" }}>
                     <Card
                         emoji={Glasses}
-                        heading={'Developer'}
-                        detail={"Html-5, CSS, JavaScript, React Js"}
+                        heading={'Frontend'}
+                        detail={"Html-5, CSS, Bootstrap, JavaScript, React Js"}
                     />
                 </div>
 
@@ -51,8 +51,8 @@ const Services = () => {
                 <div style={{ top: '19rem', left: "12rem" }}>
                     <Card
                         emoji={Humble}
-                        heading={'UI/UX'}
-                        detail={"Html-5, CSS, JavaScript, React Js"}
+                        heading={'Backend'}
+                        detail={"Node, Express, DotNet, MVC core, SQL-server, MongoDB"}
                     />
                 </div>
                 <div className='blur s-blur2' style={{ background:"var(--purple)"}}></div>

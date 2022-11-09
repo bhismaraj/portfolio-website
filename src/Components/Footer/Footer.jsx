@@ -1,9 +1,9 @@
 import React from 'react'
 import "./Footer.css"
 
-import Github from '../../img/github.png';
-import LinkedIn from '../../img/linkedin.png';
-import Instagram from '../../img/instagram.png';
+import Github from '../../img/gitttt.png';
+import LinkedIn from '../../img/linkeddd.png';
+import Instagram from '../../img/ii.png';
 
 import Wave from '../../img/wave.png'
 
@@ -22,7 +22,7 @@ const Footer = () => {
                     <a href='https://www.linkedin.com/in/bhisma-raj-joshi-17a777172/'>
                         <img src={LinkedIn} alt="" />
                     </a>
-                    <a href='https://www.instagram.com/ziwin_zoce/'>
+                    <a href='https://www.instagram.com/3_33zx/'>
                         <img src={Instagram} alt="" />
                     </a>
 
