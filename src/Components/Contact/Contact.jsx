@@ -41,8 +41,8 @@ const Contact = () => {
    <form ref={form} onSubmit={sendEmail}>
    <input type="text" name='user_name' className='user' placeholder='Name'/>
    <input type="email" name='user_email' className='user' placeholder='Email'/>
-   <textarea name="message" className='user' placeholder='Message'/>
-   <input type="submit" value="send" className="button" />
+   <textarea name="message" className='usermsg' placeholder='Message'/>
+   <input type="submit" value="send" className="button1" />
    <span> {done && "Thanks for contacting me"} </span>
    <div
    className='blur c-blur1'

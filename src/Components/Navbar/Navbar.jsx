@@ -1,4 +1,5 @@
 import React from 'react'
+import { Toogle } from '../Toogle/Toogle'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -6,7 +7,8 @@ const Navbar = () => {
         <div className="n-wrapper">
             <div className="n-left">
                 <div className="n-name">ZIWIN</div>
-                <span>toggle</span>
+                <Toogle/>
+              
             </div>
             <div className="n-right">
                 <div className="n-list">

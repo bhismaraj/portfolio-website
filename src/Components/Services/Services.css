@@ -37,6 +37,7 @@
 }
 .cards{
     position: relative;
+    left: 13rem;
 }
 .cards>*{
     position: absolute;
